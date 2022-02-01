@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nick-Tkachuk
+- 👀 I’m interested in programming and web-design
+- 📫 You can reach me in inst: https://www.instagram.com/live.design.code/
